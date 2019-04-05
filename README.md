@@ -1,4 +1,4 @@
-# Bitbucket pipelines with git-ftp
+# Bitbucket pipelines with Git-ftp
 
 This image uses Atlassians default image [atlassian/default-image:2](https://hub.docker.com/r/atlassian/default-image/) and adds [Git-ftp](https://github.com/git-ftp/git-ftp).
 
